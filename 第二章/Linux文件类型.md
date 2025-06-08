@@ -12,7 +12,7 @@
 例如：输入ls -l /dev （查看设备文件） 
 执行效果如图所示：
 
-![查看文件类型图](https://github.com/NIANBAIFOX/Linux-/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0/%E6%9F%A5%E7%9C%8B%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B.png)  
+![查看文件类型图](https://github.com/NIANBAIFOX/Linux-/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0/%E5%9B%BE%E7%89%87/%E6%9F%A5%E7%9C%8B%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B.png)
 最左侧10个字符含义依次如下：  
 * 第1个字符：代表文件类型
 * 第2~4个字符：代表用户的权限
