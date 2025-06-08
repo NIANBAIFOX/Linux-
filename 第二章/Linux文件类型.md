@@ -24,4 +24,4 @@
   
 执行效果如图所示：
   
-![查看详细的文件类型](https://github.com/NIANBAIFOX/Linux-/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0/%E6%9F%A5%E7%9C%8B%E8%AF%A6%E7%BB%86%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B.png)
+![查看详细的文件类型](https://github.com/NIANBAIFOX/Linux-/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0/%E5%9B%BE%E7%89%87/%E6%9F%A5%E7%9C%8B%E8%AF%A6%E7%BB%86%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B.png)
